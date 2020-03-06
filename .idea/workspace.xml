@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b189cbd5-debf-44a1-bfc5-508e4277006d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/itheima-news-ppt" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\tools\maven_repo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\tools\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YeR03UAydBL5Vxlq4P4iQVg49l" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="TransactionConfig&#9;PSI&#9;JAVA://com.heima.common.mysql.core.TransactionConfig&#10;MysqlCoreConfig&#9;PSI&#9;JAVA://com.heima.common.mysql.core.MysqlCoreConfig&#10;AppHttpCodeEnum&#9;PSI&#9;JAVA://com.heima.model.common.enums.AppHttpCodeEnum&#10;PageRequestDto&#9;PSI&#9;JAVA://com.heima.model.common.dtos.PageRequestDto&#10;PageResponseResult&#9;PSI&#9;JAVA://com.heima.model.common.dtos.PageResponseResult&#10;ResponseResult&#9;PSI&#9;JAVA://com.heima.model.common.dtos.ResponseResult" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567479882391" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ideaproject" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\course_code\hmtt2\heima-leadnews\heima-leadnews-model\src\main\java\com\heima\model\admin\pojos" />
+      <recent name="D:\course_code\hmtt2\heima-leadnews\heima-leadnews-model\src\main\java\com\heima\model\admin" />
+      <recent name="D:\course_code\hmtt2\heima-leadnews\heima-leadnews-model\src\main\java\com\heima\model\annotation" />
+      <recent name="D:\course_code\hmtt2\heima-leadnews\heima-leadnews-model\src\main\java\com\heima\model\article\dtos" />
+      <recent name="D:\course_code\hmtt2\heima-leadnews\heima-leadnews-model\src\main\java\com\heima\model\crawler" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.heima.model.websocket.dtos" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.heima.article.service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ArticleTest.testLoad">
+    <configuration name="ArticleTest.testLoad" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="heima-leadnews-article" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.article.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.heima.article" />
+      <option name="MAIN_CLASS_NAME" value="com.heima.article.ArticleTest" />
+      <option name="METHOD_NAME" value="testLoad" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestsApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="heima-leadnews-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.heima.article.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.heima.article.tests.TestsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ArticleTest.testLoad" />
+        <item itemvalue="Spring Boot.TestsApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\24321\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b189cbd5-debf-44a1-bfc5-508e4277006d" name="Default Changelist" comment="" />
+      <created>1566098930433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566098930433</updated>
+      <workItem from="1566098933681" duration="2187000" />
+      <workItem from="1567438278566" duration="4820000" />
+      <workItem from="1567472757415" duration="5527000" />
+      <workItem from="1567488917746" duration="5000" />
+      <workItem from="1583300848481" duration="9457000" />
+      <workItem from="1583369632709" duration="11453000" />
+      <workItem from="1583394225404" duration="5858000" />
+      <workItem from="1583456454761" duration="3993000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
